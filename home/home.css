@@ -1,0 +1,40 @@
+body {
+    background-image: url('./img/balldog.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+span {
+    text-align: center;
+}
+
+p {
+    align-content: left;
+}
+
+.tbox {
+    margin: 120px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 1px;
+    border-radius: 20px;
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#title {
+    text-align: center;
+    padding-top: 10px;
+}
+
+#page-wrap {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
