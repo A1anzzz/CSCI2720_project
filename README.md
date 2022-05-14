@@ -1,4 +1,4 @@
-###  CSCI2720_project Group 28
+#  CSCI2720_project Group 28
 ## Please npm install the below packages, so these packages can be imported.
 
 ## First we need to install dependcies packages in backend in the weather-app folder
@@ -36,7 +36,7 @@ npm run dev
 ```
 
 ## Or we can run the code below instead to start
-#the backend part
+### the backend part
 ```
 npm start
 ```
@@ -44,7 +44,7 @@ or
 ```
 node index.js
 ```
-#the frontend part, you need to open another terminal
+### the frontend part, you need to open another terminal
 ```
 cd frontend
 npm start
