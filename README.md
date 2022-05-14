@@ -54,3 +54,17 @@ or
 cd frontend
 node index.js
 ```
+
+## And here are some related links and users for test
+# The AWS cloud page: http://ec2-54-146-215-252.compute-1.amazonaws.com:3000/login
+# The github URL: https://github.com/A1anzzz/CSCI2720_project.git
+# test common user:
+```
+username: Tom
+password: 1234567
+```
+# test admin user:
+```
+username: luhaoyu
+password: 1234567
+```
