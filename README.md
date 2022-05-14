@@ -17,6 +17,7 @@ npm i cors
 cd frontend
 npm install
 npm i react
+npm i reactstrap
 npm i react-bootstrap
 npm i react-router-dom
 npm i @react-google-maps/api
@@ -29,7 +30,7 @@ npm i concurrently --save-dev
 npm i nodemon --save-dev
 ```
 
-## Finalt, we can start the server and run the project.
+## Finally, we can start the server and run the project.
 ```
 npm run dev
 ```
