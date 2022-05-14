@@ -1,0 +1,29 @@
+/*
+CHEN Zixuan 1155124576 (ESTR2106)
+LI Yanxun 1155124374
+LU Haoyu 1155124277
+XIAO Zeyu 1155124570
+ZHANG Yinan 1155124345
+*/
+
+.App-header {
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+}
+
+.body {
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.return-button {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

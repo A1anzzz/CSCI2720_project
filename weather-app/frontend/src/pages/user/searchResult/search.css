@@ -1,0 +1,78 @@
+/*
+CHEN Zixuan 1155124576 (ESTR2106)
+LI Yanxun 1155124374
+LU Haoyu 1155124277
+XIAO Zeyu 1155124570
+ZHANG Yinan 1155124345
+*/
+
+#input {
+    border-radius: 23px;
+    height: 46px;
+    width: 100%;
+    position: relative;
+    padding: 0 2vh;
+    margin: 40px 0;
+}
+
+#inputWrapper {
+    height: 100%;
+    position: relative;
+    text-align: center;
+}
+
+:host {
+    --ntp-realbox-height: 44px;
+    border-radius: calc(0.5 * var(--ntp-realbox-height));
+    box-shadow: 0 1px 6px 0 rgb(32 33 36 / 28%);
+    font-size: 16px;
+    height: var(--ntp-realbox-height);
+}
+
+.div {
+    display: inherit;
+}
+
+#search:hover {
+    transform: scale(1.8)!important;
+}
+
+#SearchTitle {
+    text-align: center;
+    font-size: -webkit-xxx-large;
+    margin: 20px
+}
+
+#search {
+    outline: none;
+    background-color: transparent;
+    border: none;
+    transform: scale(1.5)
+}
+
+#SearchIco {
+    vertical-align: 12%;
+    margin: 5px;
+    color: #f3dd06 !important;
+}
+
+#ResultCard {
+    width: 100%;
+}
+
+#RightIco {
+    vertical-align: 12%;
+    margin: 5px;
+    color: gray;
+    position: absolute;
+    right: 0px;
+}
+
+@media screen and (max-width: 600px) {
+    #input {
+        width: 300px;
+    }
+    #ResultCard {
+        width: 280px;
+    }
+}
