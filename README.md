@@ -34,3 +34,23 @@ npm i nodemon --save-dev
 ```
 npm run dev
 ```
+
+## Or we can run the code below instead to start
+#the backend part
+```
+npm start
+```
+or
+```
+node index.js
+```
+#the frontend part, you need to open another terminal
+```
+cd frontend
+npm start
+```
+or
+```
+cd frontend
+npm start
+```
