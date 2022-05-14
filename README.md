@@ -1,7 +1,7 @@
-# CSCI2720_project
-Please npm install the below packages, so these packages can be imported.
+###  CSCI2720_project Group 28
+## Please npm install the below packages, so these packages can be imported.
 
-## First we need to install packages in backend in the weather-app folder
+## First we need to install dependcies packages in backend in the weather-app folder
 ```
 cd weather-app
 npm install
@@ -12,7 +12,7 @@ npm i body-parser
 npm i cors
 ```
 
-## Then we install packages in frontend part in the frontend folder
+## Then we install dependcies packages in frontend part in the frontend folder
 ```
 cd frontend
 npm install
