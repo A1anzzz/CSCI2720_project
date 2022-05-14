@@ -52,5 +52,5 @@ npm start
 or
 ```
 cd frontend
-npm start
+node index.js
 ```
